@@ -10,7 +10,7 @@ Call this API to delete a user account from NetBrain system.
 
 > **Version** : 02/01/2019.
 
-> **API Server URL** : http(s)://IP address of NetBrain Web API Server/ServicesAPI/API/V1/CMDB/Users/{userName}
+> **API Server URL** : http(s)://IP address of NetBrain Web API Server/ServicesAPI/API/V1/CMDB/Users
 
 > **Authentication** : 
 
