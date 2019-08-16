@@ -1,7 +1,7 @@
 
 # User API Design
 
-## ***DELETE*** /V1/CMDB/Users/{userName}
+## ***DELETE*** /V1/CMDB/Users/{userName}/{authenticationserver}
 Call this API to delete a user account from NetBrain system.
 
 ## Detail Information
