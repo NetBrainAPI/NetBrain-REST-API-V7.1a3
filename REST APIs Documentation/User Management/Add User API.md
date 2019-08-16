@@ -126,20 +126,6 @@ full_url = nb_url + "/ServicesAPI/API/V1/CMDB/Users"
 headers = {'Content-Type': 'application/json', 'Accept': 'application/json'}
 headers["Token"] = token
 
-username = "NetBrain2"
-email = "NetBrain2@netbrain.com"
-firstName = "NetBrain"
-lastName = "NetBrain"
-password = "NetBrain"
-authenticationType = 1 
-phoneNumber = "string"
-department = "string"
-description = "string"
-allowChangePassword = True
-deactivatedTime = "string"
-isSystemAdmin = False
-tenants = []
-
 body = {
         "username": "externalAccount",
         "externalUserIdentity":"xxxx",
