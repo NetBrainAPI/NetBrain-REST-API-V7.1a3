@@ -1,6 +1,6 @@
 
-## ***GET*** /V1/CMDB/UserDeviceAccessPolicy?{authenticationServer}
-Call this API to get all device access policy associated.
+## ***GET*** /V1/CMDB/UserDeviceAccessPolicy?{authenticationServer}&{userName}
+Call this API to get all device access policy associated with one specified user account with account name.
 
 ## Detail Information
 
