@@ -2,7 +2,7 @@
 # Get Users of Device Access Policy
 
 ## ***GET*** /V1/CMDB/UserDeviceAccessPolicy/UsersOfDeviceAccessPolicy?{name}
-Call this API to get user of device access policy
+Call this API to get users which have the same device access policy in current domain.
 
 ## Detail Information
 
