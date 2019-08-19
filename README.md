@@ -28,6 +28,17 @@ Netbrain provide all available REST APIs in this repository. We offer two sectio
 5) [Run Benchmark Task Now API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Benchmark%20Task%20Management/Run%20Benchmark%20Task%20Now%20API.md)<br>
 6) [Update Benchmark Task API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Benchmark%20Task%20Management/Update%20Benchmark%20Task%20API.md)
 
+### [Devices Access Control](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/tree/master/REST%20APIs%20Documentation/Device%20Access%20Control)
+1) [Add Device Access Policy API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/AddDeviceAccessPolicy%20API.md)<br>
+2) [Assign Device Access Policies to User API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/AssignDeviceAccessPoliciesToUser%20API.md)<br>
+3) [Delete Device Access Policy API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/DeleteDeviceAccessPolicy%20API.md)<br>
+4) [Get Device Access Policies API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/Get%20Device%20Access%20Policies%20API.md)<br>
+5) [Get User Device Access Policis API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/GetUserDeviceAccessPolicy%20API.md)<br>
+6) [Get Users of One Device Access Policy API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/GetUsersofDeviceAccessPolicy%20API.md)<br>
+7) [Remove Device Access Policies from User API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/RemoveDeviceAccessPoliciesFromUser%20API.md)<br>
+8) [Set User Device Access Policy API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/SetUserDeviceAccessPolicy%20API.md)<br>
+9) [Update Device Access Policy API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/UpdateDeviceAccessPolicy%20API.md)<br>
+
 ### [Devices Management](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/tree/master/REST%20APIs%20Documentation/Devices%20Management)
 1) [Create Devices Attribute API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Devices%20Management/Create%20Devices%20Attribute%20API.md)<br>
 2) [Delete Devices Attribute API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Devices%20Management/Delete%20Devices%20Attribute%20API.md)<br>
