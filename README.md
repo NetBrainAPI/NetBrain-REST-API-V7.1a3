@@ -29,6 +29,8 @@ Netbrain provide all available REST APIs in this repository. We offer two sectio
 6) [Update Benchmark Task API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Benchmark%20Task%20Management/Update%20Benchmark%20Task%20API.md)
 
 ### [Devices Access Control](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/tree/master/REST%20APIs%20Documentation/Device%20Access%20Control)
+***Note:*** If customer want to use the following APIs, please go to the **System Management -> Advanced Settings -> Device Access Policy** then check the "Enable device access policy". <br>
+<img src="REST APIs Documentation/Device Access Control/DeviceAccessImage.JPG" /><br>
 1) [Add Device Access Policy API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/AddDeviceAccessPolicy%20API.md)<br>
 2) [Assign Device Access Policies to User API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/AssignDeviceAccessPoliciesToUser%20API.md)<br>
 3) [Delete Device Access Policy API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Device%20Access%20Control/DeleteDeviceAccessPolicy%20API.md)<br>
