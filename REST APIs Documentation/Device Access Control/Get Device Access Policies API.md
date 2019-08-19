@@ -2,7 +2,7 @@
 # Get Device Access Policies API
 
 ## ***GET*** /V1/CMDB/DeviceAccessPolicy?{name}
-Call this API to get device access policy. If the input policy name is not none, API will return the corrsponding policy information of base one input name. Otherwise API will return all policy information.
+Call this API to get device access policy in current domain. If the input policy name is not none, API will return the corrsponding policy information of base one input name. Otherwise API will return all policy information.
 
 ## Detail Information
 
