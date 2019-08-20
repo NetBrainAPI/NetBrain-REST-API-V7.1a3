@@ -79,13 +79,13 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # Set the request inputs
 token = "6bf756e4-18dd-49ec-b63e-cad4a1129c95"
 nb_url = "https://10.10.7.209"
-taskName = "DeviceAccessPolicy_GL2"
+policyName = "DeviceAccessPolicy_GL2"
 
 headers = {'Content-Type': 'application/json', 'Accept': 'application/json'}
 headers["Token"] = token
 
-def deleteDeviceAccessPolicy(headers, taskName):
-    full_url = nb_url + "/ServicesAPI/API/V1/CMDB/DeviceAccessPolicy/" + taskName
+def deleteDeviceAccessPolicy(headers, policyName):
+    full_url = nb_url + "/ServicesAPI/API/V1/CMDB/DeviceAccessPolicy/" + policyName
     try:
         response = requests.delete(full_url, headers=headers, verify=False)
         if response.status_code == 200:
@@ -97,7 +97,7 @@ def deleteDeviceAccessPolicy(headers, taskName):
     except Exception as e:
             return (str(e)) 
         
-result = deleteDeviceAccessPolicy(headers, taskName)
+result = deleteDeviceAccessPolicy(headers, policyName)
 result
 ```
 
