@@ -10,7 +10,7 @@ Call this API to get device access policy in current domain. If the input policy
 
 > **Version** : 08/12/2019.
 
-> **API Server URL** : http(s)://IP address of NetBrain Web API Server/ServicesAPI/API/V1/CMDB/DeviceAccessPolicy?{name}
+> **API Server URL** : http(s)://IP address of NetBrain Web API Server/ServicesAPI/API/V1/CMDB/DeviceAccessPolicy
 
 > **Authentication** : 
 
@@ -28,7 +28,7 @@ Call this API to get device access policy in current domain. If the input policy
 |**Name**|**Type**|**Description**|
 |------|------|------|
 |<img width=100/>|<img width=100/>|<img width=500/>|
-| name* | string  | The name of the policy which customer want to check.|
+| name | string  | The name of the policy which customer want to check.|
 
 ## Headers
 
