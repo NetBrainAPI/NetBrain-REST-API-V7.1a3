@@ -25,7 +25,7 @@ Call this API to modify a new device access policy
 |------|------|------|
 |<img width=100/>|<img width=100/>|<img width=500/>|
 | name* | string  | The name of the policy which customer want to create.|
-| newName* | string  | The new name of the policy which customer want to modify.|
+| newName | string  | The new name of the policy which customer want to modify.|
 | description | string  | A brief explanation of new access policy.|
 | privileges* | list of integer  | The privilege inclueded in this policy.<br> 1: View data.<br> 2: Execute Network Change.|
 | scope* | object  | The device scope of this new policy.|
