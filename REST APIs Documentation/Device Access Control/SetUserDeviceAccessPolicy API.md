@@ -1,7 +1,7 @@
 
 # SetUserDeviceAccessPolicy
 
-## ***POST*** /V1/CMDB/DeviceAccessPolicy
+## ***POST*** /V1/CMDB/UserDeviceAccessPolicy
 Call this API to set device access policy associated for a user, if customer call this API by an account which already have access policy then the original policies would be replaced by the policy list which insert in the API call.
 
 ## Detail Information
