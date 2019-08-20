@@ -39,10 +39,7 @@ Call this API to create a new device access policy
 {
     "name": "DeviceAccessPolicy1",
     "description": "a device access policy",
-    "privileges": [
-        "1",
-        "2"
-    ],
+    "privileges": [1, 2],
     "scope": {
         "type": 1,
         "items": [
@@ -60,10 +57,7 @@ Call this API to create a new device access policy
 {
     "name": "DeviceAccessPolicy1",
     "description": "a device access policy",
-    "privileges": [
-        "1",
-        "2"
-    ],
+    "privileges": [1, 2],
     "scope": {
         "type": 1,
         "items": [
@@ -81,10 +75,7 @@ Call this API to create a new device access policy
 {
     "name": "DeviceAccessPolicy1",
     "description": "a device access policy",
-    "privileges": [
-        "1",
-        "2"
-    ],
+    "privileges": [1, 2],
     "scope": {
         "type": 1,
         "items": [
@@ -155,10 +146,7 @@ nb_url = "https://10.10.7.209"
 body = {
     "name": "DeviceAccessPolicy_GL1",
     "description": "a device access policy",
-    "privileges": [
-        "1",
-        "2"
-    ],
+    "privileges": [1, 2],
     "scope": {
         "type": 0
     }
