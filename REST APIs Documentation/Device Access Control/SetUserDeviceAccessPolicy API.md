@@ -26,7 +26,7 @@ Call this API to set device access policy associated for a user, if customer cal
 |<img width=100/>|<img width=100/>|<img width=500/>|
 |authenticationServer|	string|	The authentication server name. |
 |userName*	|string	|The user name. |
-|policies*	|List of string	|The list of policy name. |
+|policies*	|List of string	|The list of policy name.<br> ***Note:*** If customer set the policy list as empty, all origianl policies already existing in user account will be deleted. |
 >***Note:*** <br> 1. The authentication server is optional<br> 2. The program will looks for users on all servers(including local  and external servers) when the authentication server name is null or empty.<br> 3. The program will looks for users on local server when the authentication server name is "NetBrain", otherwise will looks for users on the specified server.
 
 ***Example:*** 
