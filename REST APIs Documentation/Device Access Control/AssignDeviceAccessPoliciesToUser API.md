@@ -122,21 +122,7 @@ def AssignDeviceAccessPoliciesToUser(headers, body, nb_url):
 result = AssignDeviceAccessPoliciesToUser(headers, body, nb_url)
 result
 ```
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-1-aec7f936a02b> in <module>
-         35             return (str(e))
-         36 
-    ---> 37 result = assignUsertoDeviceAccessPolicy(headers, body, nb_url)
-         38 result
-    
-
-    NameError: name 'assignUsertoDeviceAccessPolicy' is not defined
-
+    {"statusCode": 790200, "statusDescription": "Success"}
 
 # cURL Code from Postman
 
