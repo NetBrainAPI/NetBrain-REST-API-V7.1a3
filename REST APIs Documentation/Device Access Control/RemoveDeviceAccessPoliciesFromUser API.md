@@ -25,7 +25,7 @@ Call this API to remove device access policies from user
 |------|------|------|
 |<img width=100/>|<img width=100/>|<img width=500/>|
 | userName* | string  | The name of the user account.|
-| policies* | list of string | The list of policy name. |
+| policies* | list of string | The list of policy name. <br> ***Note:*** policy list can not be empty.|
 
 ***Example:***
 
