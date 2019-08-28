@@ -27,7 +27,7 @@ Call this API to create a new device access policy
 | privileges* | list of integer  | The privilege inclueded in this policy.<br> 1: View data.<br> 2: Execute Network Change.|
 | scope* | object  | The device scope of this new policy.|
 | scope.type* | integer | The type of current scope.<br> 0: base on all devices. <br> 1: base on device site. |
-| scope.items | list of object | Only needed when customer set the scope.type = 1 to specify the identification of device sites|
+| scope.items | list of object | This would be a required input if customer set the scope.type = 1, to specify the identification of device sites|
 | scope.items.siteId | list of string | A string list to specify the sites with site ID. <br> ***Note:*** Working for unassign site also.|
 | scope.items.sitePath | list of string | A string list to specify the sites with site path. <br> ***Note:*** Working for unassign site also.|
 >***Note:*** customer can only select one method between siteId and sitePath for specify device sites. If customer provide both then system will choose siteId as primary parameter automatically.
