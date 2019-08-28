@@ -1,7 +1,7 @@
 
 ## ***POST*** /V1/CMDB/UserDeviceAccessPolicy/AssignDeviceAccessPolicies
 Call this API to assign device access policies to user.<br>
-***Note:*** Customer can call this API if only want to assign new policies to accounts without delete the already existing policy in accounts.
+***Note:*** Customer can call this API if only want to assign new policies to accounts without delete the already existing policy in accounts. And customer needs to have **Share Policy Management** privilege at least to call this API.
 
 ## Detail Information
 
