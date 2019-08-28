@@ -2,7 +2,8 @@
 # UpdateDeviceAccessPolicy 
 
 ## ***PUT*** /V1/CMDB/DeviceAccessPolicy
-Call this API to modify a new device access policy
+Call this API to modify a new device access policy <br>
+***Note:*** customer needs to have **Domain Management** privilege at least.
 
 ## Detail Information
 
