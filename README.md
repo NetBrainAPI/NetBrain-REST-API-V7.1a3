@@ -153,3 +153,7 @@ To see the list of all REST APIs view "REST APIs Documentation".
 4) [Get Detail Usage Report of Users API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/User%20Management/Get%20Detail%20Usage%20Report%20of%20Users%20API.md)<br>
 5) [Update User API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/User%20Management/Update%20User%20API.md)<br>
 6) [Get Users API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/User%20Management/Get%20Users%20API.md)
+
+### [Tune Devices Access](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/tree/master/REST%20APIs%20Documentation/Tune%20Devices%20Access%20API%20Design)
+1) [Create Tune Devices Access Task ID API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Tune%20Devices%20Access%20API%20Design/Create%20Tune%20Devices%20Access%20Task%20ID%20API.md)<br>
+2) [Get Tune Devices Access Task Result API](https://github.com/NetBrainAPI/NetBrain-REST-API-V7.1a3/blob/master/REST%20APIs%20Documentation/Tune%20Devices%20Access%20API%20Design/Get%20tune%20device%20access%20task%20result%20API.md)
